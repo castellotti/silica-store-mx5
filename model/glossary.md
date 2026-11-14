@@ -3,7 +3,7 @@ type: Glossary
 title: "Glossary of MX-5 codes"
 description: "What the generation and revision codes used in this store mean."
 tags: [mazda, mx-5, miata, glossary]
-aliases: ["MX-5 codes", "chassis codes", "revision codes", "NA1", "NB2", "ND3"]
+aliases: ["MX-5 codes", "chassis codes", "revision codes", "generation codes"]
 status: stable
 ---
 

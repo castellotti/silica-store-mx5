@@ -36,37 +36,37 @@ x-silica:
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Awards" }
-      pin: { sha256: "d6e447d1304ef62f529e37e5cc846bc531f6ebf3fb2a77533b78c1fe570ca5ee", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "1b0f0680a79d64cbd7675ae7da2badf2789d085df8eaeb4837436d920e939b44" }
+      pin: { sha256: "d6e447d1304ef62f529e37e5cc846bc531f6ebf3fb2a77533b78c1fe570ca5ee", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "1b0f0680a79d64cbd7675ae7da2badf2789d085df8eaeb4837436d920e939b44" }
     - id: stated-count
       at: { section: "Stated count" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Legacy and recognition" }
-      pin: { sha256: "c78a7e69bdb00819583e7a7ced4685c66cca6511cdf4b685911dcd5af8e094ed", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "df4b892ab6a3ed1b1d045cc6dbb4f71cc9221e2149428bab86870f3869db94f1" }
+      pin: { sha256: "c78a7e69bdb00819583e7a7ced4685c66cca6511cdf4b685911dcd5af8e094ed", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "df4b892ab6a3ed1b1d045cc6dbb4f71cc9221e2149428bab86870f3869db94f1" }
     - id: na-years
       at: { section: "NA years" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Awards and recognition" }
-      pin: { sha256: "45721dadf2199c7aad9f2691d92935ea3d87ac72c7a0a20d10b8d06e1b76d0ac", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "0d549dc1d48109e4c44ddd4be44a09bda72c9e3a3f42d4328efb75b2eb9d025c" }
+      pin: { sha256: "45721dadf2199c7aad9f2691d92935ea3d87ac72c7a0a20d10b8d06e1b76d0ac", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "0d549dc1d48109e4c44ddd4be44a09bda72c9e3a3f42d4328efb75b2eb9d025c" }
     - id: nb-years
       at: { section: "NB years" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Awards and recognition" }
-      pin: { sha256: "9d1524cb949f1ce64770a89d75fa57624c91a385f3d339cb2b5a26bfd6293c57", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "a276752a76f579c79e7512bcfc4be2d73c471e90b455a0406ca4c60205ef0626" }
+      pin: { sha256: "9d1524cb949f1ce64770a89d75fa57624c91a385f3d339cb2b5a26bfd6293c57", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "a276752a76f579c79e7512bcfc4be2d73c471e90b455a0406ca4c60205ef0626" }
     - id: nc-years
       at: { section: "NC years" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Accolades" }
-      pin: { sha256: "10e04bec335c16487e2205c6bea01c26f80427d64d2f3559cef831c6c1ffef44", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "108f1aba8496c36b888c5aadb1444f392df3a4e77f11ae8b7336ac3e4c58c104" }
+      pin: { sha256: "10e04bec335c16487e2205c6bea01c26f80427d64d2f3559cef831c6c1ffef44", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "108f1aba8496c36b888c5aadb1444f392df3a4e77f11ae8b7336ac3e4c58c104" }
     - id: nd-years
       at: { section: "ND years" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Accolades" }
-      pin: { sha256: "44a397f428d5a04b4687fb155c8090d661e65a3fdabc94a9883b96f8d75b99bf", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "076c736eb95cf0099824dc3612bfd3c801e761718a6adc8cb06c031f88445245" }
+      pin: { sha256: "44a397f428d5a04b4687fb155c8090d661e65a3fdabc94a9883b96f8d75b99bf", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "076c736eb95cf0099824dc3612bfd3c801e761718a6adc8cb06c031f88445245" }
 ---
 
 # Car and Driver 10Best: Mazda MX-5

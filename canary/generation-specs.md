@@ -7,13 +7,13 @@ aliases: ["canary", "drift test", "generation specs", "wheelbase by generation"]
 status: stable
 sources:
   - id: canary-specs-file
-    resource: "https://github.com/castellotti/silica-store-mx5/blob/main/canary/specs.json"
+    resource: "/canary/specs.json"
     title: "Canary data file canary/specs.json (this store)"
   - id: canary-specs-git
     resource: "https://github.com/castellotti/silica-store-mx5/blob/main/canary/specs.json"
     title: "canary/specs.json in castellotti/silica-store-mx5 (main)"
   - id: canary-milestones-file
-    resource: "https://github.com/castellotti/silica-store-mx5/blob/main/canary/milestones.yaml"
+    resource: "/canary/milestones.yaml"
     title: "Canary data file canary/milestones.yaml (this store)"
   - id: canary-milestones-git
     resource: "https://github.com/castellotti/silica-store-mx5/blob/main/canary/milestones.yaml"
@@ -136,7 +136,7 @@ Source: [^canary-specs-file]
 - [Mazda MX-5](/model/mx-5.md)
 
 
-[^canary-specs-file]: Canary data file canary/specs.json (this store): <https://github.com/castellotti/silica-store-mx5/blob/main/canary/specs.json>
+[^canary-specs-file]: Canary data file canary/specs.json (this store): </canary/specs.json>
 [^canary-specs-git]: canary/specs.json in castellotti/silica-store-mx5 (main): <https://github.com/castellotti/silica-store-mx5/blob/main/canary/specs.json>
-[^canary-milestones-file]: Canary data file canary/milestones.yaml (this store): <https://github.com/castellotti/silica-store-mx5/blob/main/canary/milestones.yaml>
+[^canary-milestones-file]: Canary data file canary/milestones.yaml (this store): </canary/milestones.yaml>
 [^canary-milestones-git]: canary/milestones.yaml in castellotti/silica-store-mx5 (main): <https://github.com/castellotti/silica-store-mx5/blob/main/canary/milestones.yaml>

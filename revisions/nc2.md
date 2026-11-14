@@ -19,31 +19,31 @@ x-silica:
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2009 facelift (NC2)" }
-      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "d98403cb8677df397392d5eb19da8eeda582e0d898ee9c9e3c0f595626ba7e83" }
+      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "d98403cb8677df397392d5eb19da8eeda582e0d898ee9c9e3c0f595626ba7e83" }
     - id: changes
       at: { section: "Changes" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2009 facelift (NC2)" }
-      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "bf7c608ae38ab018dbf11c5bd2b4d5a2c3ef7d5cbc250c62a5b7999fd13005ed" }
+      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "bf7c608ae38ab018dbf11c5bd2b4d5a2c3ef7d5cbc250c62a5b7999fd13005ed" }
     - id: engine
       at: { section: "Engine" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2009 facelift (NC2)" }
-      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "97753ba2c42da4b7f158e112018711e18d0c9c444da2550ce596bc5eed881b8b" }
+      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "97753ba2c42da4b7f158e112018711e18d0c9c444da2550ce596bc5eed881b8b" }
     - id: trims
       at: { section: "Trims" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2009 facelift (NC2)" }
-      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "38c37d8a3a0cf0203399c592966ad434d5083f5b0fc2c254f4fa930cc6f64cac" }
+      pin: { sha256: "78288a55e44b972dada251573defda4fa00175e0e89752727adc8436a2b6803b", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "38c37d8a3a0cf0203399c592966ad434d5083f5b0fc2c254f4fa930cc6f64cac" }
     - id: special-editions
       at: { section: "Special editions" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Special editions (2009—2012)" }
-      pin: { sha256: "ce4940fcdd5f45f0313d48a5e78da48d1660c2a58176083fba77af3e5f43b327", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "e46362aa217576c45ae842935b310125318e2a80f22f710ee87283e01f3870e8" }
+      pin: { sha256: "ce4940fcdd5f45f0313d48a5e78da48d1660c2a58176083fba77af3e5f43b327", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "e46362aa217576c45ae842935b310125318e2a80f22f710ee87283e01f3870e8" }
 ---
 
 # MX-5 NC2 (2009 facelift), model years 2009–2012

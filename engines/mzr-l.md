@@ -24,19 +24,19 @@ x-silica:
       source: wp-l-engine
       mode: pinned
       extract: { kind: md-section, heading: "1.8 L (L8-DE, L8-VE)" }
-      pin: { sha256: "10008d1f09849e64271bf16347cb472b92cf6a9d41a072227b28aba35a72a2bf", rev: "sha256:16a191c28f88739910cb252d7515873fd5dc0acfb5bafef88f0db0c6f6cea24a", at: "2026-11-14T11:31:46Z", fact: "b74ba40314b465a9e4c88ae9bf05ee5ef7d78f956a6f48abbd5389d71a641368" }
+      pin: { sha256: "10008d1f09849e64271bf16347cb472b92cf6a9d41a072227b28aba35a72a2bf", rev: "sha256:16a191c28f88739910cb252d7515873fd5dc0acfb5bafef88f0db0c6f6cea24a", at: "2026-11-14T11:49:25Z", fact: "b74ba40314b465a9e4c88ae9bf05ee5ef7d78f956a6f48abbd5389d71a641368" }
     - id: 2-0-l-lf
       at: { section: "2.0 L (LF)" }
       source: wp-l-engine
       mode: pinned
       extract: { kind: md-section, heading: "2.0 L (LF-DE, LF-VE, LF-VD)" }
-      pin: { sha256: "c68dc1a01b7dcbefc2172ed3abe1399de47b8b925d4a7a256be22e38aa200bc5", rev: "sha256:16a191c28f88739910cb252d7515873fd5dc0acfb5bafef88f0db0c6f6cea24a", at: "2026-11-14T11:31:46Z", fact: "8a07c8d1f15b9b2b91de9d035fb2a94eb636b8b95fa79aa1d96245be3ec92b39" }
+      pin: { sha256: "c68dc1a01b7dcbefc2172ed3abe1399de47b8b925d4a7a256be22e38aa200bc5", rev: "sha256:16a191c28f88739910cb252d7515873fd5dc0acfb5bafef88f0db0c6f6cea24a", at: "2026-11-14T11:49:25Z", fact: "8a07c8d1f15b9b2b91de9d035fb2a94eb636b8b95fa79aa1d96245be3ec92b39" }
     - id: in-the-mx-5-nc-article
       at: { section: "In the MX-5 (NC article)" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2005—2008 (NC1)" }
-      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "67f7b07e25ed00cb95d491037bed20331f6db097184dbc85dec1ca2e3a7314e2" }
+      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "67f7b07e25ed00cb95d491037bed20331f6db097184dbc85dec1ca2e3a7314e2" }
 ---
 
 # Mazda MZR L-series (L8 1.8 L, LF 2.0 L)

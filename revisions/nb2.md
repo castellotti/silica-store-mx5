@@ -27,67 +27,67 @@ x-silica:
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Facelift (2001)" }
-      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "5e779a0712c6f6b243d4251444d5ca3ec7cee1c7584426c024de891b66237c8c" }
+      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "5e779a0712c6f6b243d4251444d5ca3ec7cee1c7584426c024de891b66237c8c" }
     - id: changes
       at: { section: "Changes" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Facelift (2001)" }
-      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "482027f9e0d8064cdebcf1b51cb9d3d770572a68829deb5016ad07f0fd1cb052" }
+      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "482027f9e0d8064cdebcf1b51cb9d3d770572a68829deb5016ad07f0fd1cb052" }
     - id: engine-nb-article
       at: { section: "Engine (NB article)" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Facelift (2001)" }
-      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "3bb775a78c84d35a8ef2efc73a360bc35c11481bbd313c8b65d9f582b24531a4" }
+      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "3bb775a78c84d35a8ef2efc73a360bc35c11481bbd313c8b65d9f582b24531a4" }
     - id: engine-mx5-article
       at: { section: "Engine (MX-5 article)" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Second generation – NB (1998–2005)" }
-      pin: { sha256: "ff6045ce35aff9c70e49cd2417d62cbbeae49b0579140ffdb2c0e6b80b0d14c1", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "e222fa1cb415efa6b56902d4e76ad0c7cf741a23864d68a4321c8c038793e2ec" }
+      pin: { sha256: "ff6045ce35aff9c70e49cd2417d62cbbeae49b0579140ffdb2c0e6b80b0d14c1", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "e222fa1cb415efa6b56902d4e76ad0c7cf741a23864d68a4321c8c038793e2ec" }
     - id: engine-uk-table
       at: { section: "Engine (UK table)" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Technical specifications (UK)" }
-      pin: { sha256: "898a530d4f89ee6043a9923e358c48bb215ae881aa0e9eb87c3c3410e62ebdb3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "44842674cfcf37d8b933885b2cf3f1c946171a2c10d86ad39f40c5b92f121c2e" }
+      pin: { sha256: "898a530d4f89ee6043a9923e358c48bb215ae881aa0e9eb87c3c3410e62ebdb3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "44842674cfcf37d8b933885b2cf3f1c946171a2c10d86ad39f40c5b92f121c2e" }
     - id: engine-code-b-engine-article
       at: { section: "Engine code (B engine article)" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "BP-Z3" }
-      pin: { sha256: "0d1d0dbf9f416def6890f08891a2a867a6b28ba9467918efc0f9c3bb917d41d6", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "8abd65411ed9cc1059ca78be7e5e3497dadc05c76cec874b66ffab0e41e71efb" }
+      pin: { sha256: "0d1d0dbf9f416def6890f08891a2a867a6b28ba9467918efc0f9c3bb917d41d6", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "8abd65411ed9cc1059ca78be7e5e3497dadc05c76cec874b66ffab0e41e71efb" }
     - id: power-rating-buy-back
       at: { section: "Power rating buy-back" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Facelift (2001)" }
-      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "f8cccd621bad0f755921ef57e1404bf78d0f99e314708f2b40032095f260a239" }
+      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "f8cccd621bad0f755921ef57e1404bf78d0f99e314708f2b40032095f260a239" }
     - id: curb-weight
       at: { section: "Curb weight" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Facelift (2001)" }
-      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "c3b0910487b9e660914f38ef772c9b5ebe3cf13f557df92f8239e934af9082f9" }
+      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "c3b0910487b9e660914f38ef772c9b5ebe3cf13f557df92f8239e934af9082f9" }
     - id: trims
       at: { section: "Trims" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Facelift (2001)" }
-      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "405f8ea10b81869b0d01ee9879e6a06104fa0887beb8af57c39e7e342b9ed612" }
+      pin: { sha256: "88b8fb763112490268a97cd33f01479e81d94975076d857a9c2c33718b422ea3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "405f8ea10b81869b0d01ee9879e6a06104fa0887beb8af57c39e7e342b9ed612" }
     - id: mazdaspeed-mx-5
       at: { section: "Mazdaspeed MX-5" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Mazdaspeed MX-5 (2004–2005)" }
-      pin: { sha256: "5435e0c2bd01fa9c408be4023d537eb00ef3fcdb07903852ccee5bb2d05c64f3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "9a800426d8f7169b6104a1cf585d0d0629509d9ad02987c64bffb04b70fe37e8" }
+      pin: { sha256: "5435e0c2bd01fa9c408be4023d537eb00ef3fcdb07903852ccee5bb2d05c64f3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "9a800426d8f7169b6104a1cf585d0d0629509d9ad02987c64bffb04b70fe37e8" }
     - id: mazdaspeed-torque-b-engine-article
       at: { section: "Mazdaspeed torque (B engine article)" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "BP-4W" }
-      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "4d11ab5e0f45a71700cba2987a0e1b0ece5ee82b8e1d78210c1d18fcb2ecf40c" }
+      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "be3e5cc21e0f9e693a9ea847e392961e41955b5026d9cc0c087d6b9057d66850" }
 ---
 
 # MX-5 NB2 (facelift), model years 2001–2005
@@ -138,7 +138,7 @@ Mazdaspeed MX-5: IHI RHF5 turbocharged BP-4W producing 133 kW (178 bhp) at 6,000
 
 ## Mazdaspeed torque (B engine article)
 
-The B engine article gives the Mazdaspeed engine 226 N⋅m; 166 lbf⋅ft at 4500 rpm; the NB article gives a different torque figure. [^wp-b-engine]
+The B engine article gives the Mazdaspeed engine 226 N⋅m; 166 lbf⋅ft at 4500 rpm: the same N⋅m as the NB article (Mazdaspeed MX-5 section above), converted to a different lbf⋅ft. [^wp-b-engine]
 
 ## Related
 

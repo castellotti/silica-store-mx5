@@ -10,7 +10,7 @@ One concept per North American model year, 1990–2026. Sections marked _Not fou
 * [1995 Mazda MX-5](1995.md) - 1995 model year MX-5 (NA generation, NA2): trims, colors, engine, weight, fuel economy, recalls, awards and features.
 * [1996 Mazda MX-5](1996.md) - 1996 model year MX-5 (NA generation, NA2): trims, colors, engine, weight, fuel economy, recalls, awards and features.
 * [1997 Mazda MX-5](1997.md) - 1997 model year MX-5 (NA generation, NA2): trims, colors, engine, weight, fuel economy, recalls, awards and features.
-* [1998 Mazda MX-5](1998.md) - 1998 model year MX-5 (NB generation, NA/NB): trims, colors, engine, weight, fuel economy, recalls, awards and features.
+* [1998 Mazda MX-5](1998.md) - 1998 model year MX-5: sources disagree whether the first NB cars were 1998 or 1999 models; the UK-only NA Berkeley sold in 1998: trims, colors, engine, weight, fuel economy, recalls, awards and features.
 * [1999 Mazda MX-5](1999.md) - 1999 model year MX-5 (NB generation, NB1): trims, colors, engine, weight, fuel economy, recalls, awards and features.
 * [2000 Mazda MX-5](2000.md) - 2000 model year MX-5 (NB generation, NB1): trims, colors, engine, weight, fuel economy, recalls, awards and features.
 * [2001 Mazda MX-5](2001.md) - 2001 model year MX-5 (NB generation, NB2): trims, colors, engine, weight, fuel economy, recalls, awards and features.

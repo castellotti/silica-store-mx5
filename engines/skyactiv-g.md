@@ -24,31 +24,31 @@ x-silica:
       source: wp-nd
       mode: pinned
       extract: { kind: text-between, start: "Engine |", end: "Power output |" }
-      pin: { sha256: "43b5d609e5b343084657156d6ffb1cd7063e0cd7249915f0f0ed8bcecd129683", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "2fa018b10961f8b0d1a5daaf1a05f2a6f02d01e918f5cf7d69d0664e004f4c62" }
+      pin: { sha256: "43b5d609e5b343084657156d6ffb1cd7063e0cd7249915f0f0ed8bcecd129683", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "2fa018b10961f8b0d1a5daaf1a05f2a6f02d01e918f5cf7d69d0664e004f4c62" }
     - id: specification-table
       at: { section: "Specification table" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Specifications" }
-      pin: { sha256: "4e5bdeeca57d2e67a4163a5a351d9c597a4147b7ca91cb14ac98e37294435e92", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "9b2976b1948541271f768768ae2bd7527f1971f349e51d726728c512ad771041" }
+      pin: { sha256: "4e5bdeeca57d2e67a4163a5a351d9c597a4147b7ca91cb14ac98e37294435e92", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "9b2976b1948541271f768768ae2bd7527f1971f349e51d726728c512ad771041" }
     - id: 2018-revision
       at: { section: "2018 revision" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "2018 update" }
-      pin: { sha256: "f27ec33fa84f1d99a0013b96d08473c3358d7733e47ddca3d191cf0b64579aec", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "049b67c3a65bb697875d1f8cc0c71917b78bd147b6cef689689bb04db0bd96e3" }
+      pin: { sha256: "f27ec33fa84f1d99a0013b96d08473c3358d7733e47ddca3d191cf0b64579aec", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "049b67c3a65bb697875d1f8cc0c71917b78bd147b6cef689689bb04db0bd96e3" }
     - id: 12r-engine
       at: { section: "12R engine" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Mazda Spirit Racing Roadster 12R" }
-      pin: { sha256: "6bbe2d29d4b862e4e11ff3efca5fb6d32c51a1c387f44c2bce1df0e500c95e38", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "0e0c61d8bc3937a66389f1a87c8d7f17644eb24e9287603881b3c1c62380bd07" }
+      pin: { sha256: "6bbe2d29d4b862e4e11ff3efca5fb6d32c51a1c387f44c2bce1df0e500c95e38", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "0e0c61d8bc3937a66389f1a87c8d7f17644eb24e9287603881b3c1c62380bd07" }
     - id: in-the-mx-5-cup
       at: { section: "In the MX-5 Cup" }
       source: wp-cup
       mode: pinned
       extract: { kind: md-section, heading: "2016–present" }
-      pin: { sha256: "fc3ffd48a8eb31ac4d4a7be3c917df7bd2fb964b861ae1927f18e5264597c9fa", rev: "sha256:40fe23051a8cb7a4140c850fd875a14ac3a84e8ff9c1122c184b6fb8d89d3575", at: "2026-11-14T11:31:46Z", fact: "6565c58ea5f5734ea88a0acca54ea86f42135e703ac82a1c83be0e7a648e78b8" }
+      pin: { sha256: "fc3ffd48a8eb31ac4d4a7be3c917df7bd2fb964b861ae1927f18e5264597c9fa", rev: "sha256:40fe23051a8cb7a4140c850fd875a14ac3a84e8ff9c1122c184b6fb8d89d3575", at: "2026-11-14T11:49:25Z", fact: "6565c58ea5f5734ea88a0acca54ea86f42135e703ac82a1c83be0e7a648e78b8" }
 ---
 
 # Mazda Skyactiv-G 1.5 L and 2.0 L in the MX-5

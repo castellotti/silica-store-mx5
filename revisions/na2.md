@@ -23,55 +23,55 @@ x-silica:
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "a3e329fc79c0e628efac20a778699093007f8597e2e80ac939132e7649a912c3" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "a3e329fc79c0e628efac20a778699093007f8597e2e80ac939132e7649a912c3" }
     - id: changes
       at: { section: "Changes" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "f3ea044ebadd78a3f61f8ba35ffcb0305bffa56dc97ec8d35fdcb9877c37ae9c" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "f3ea044ebadd78a3f61f8ba35ffcb0305bffa56dc97ec8d35fdcb9877c37ae9c" }
     - id: engine
       at: { section: "Engine" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "55b21fa9675f3e1e1badfbd8d635830c3ad233e5083a7f729c2afada439f2130" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "55b21fa9675f3e1e1badfbd8d635830c3ad233e5083a7f729c2afada439f2130" }
     - id: torque-uk-table
       at: { section: "Torque rpm (UK table)" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Specifications" }
-      pin: { sha256: "c7d92f42deff68d8b68adc73b276ae65bb86ae7d6a62652802a80d41de662f99", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "17f9748cc78f19f5a6859a4fdb13418643bd0fe0d0e7846b0ab28b91944f1625" }
+      pin: { sha256: "c7d92f42deff68d8b68adc73b276ae65bb86ae7d6a62652802a80d41de662f99", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "17f9748cc78f19f5a6859a4fdb13418643bd0fe0d0e7846b0ab28b91944f1625" }
     - id: europe-1-6-na-article
       at: { section: "European 1.6 L (NA article)" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "a19412528ce7e84474253f7a8106ceaa7384f090bdcd4b834ae64c63dc647782" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "a19412528ce7e84474253f7a8106ceaa7384f090bdcd4b834ae64c63dc647782" }
     - id: europe-1-6-uk-table
       at: { section: "European 1.6 L (UK table)" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Specifications" }
-      pin: { sha256: "c7d92f42deff68d8b68adc73b276ae65bb86ae7d6a62652802a80d41de662f99", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "81c3c81bc1588935404cd0357f84744b2345f6aa594cbaba2e808d7b26867177" }
+      pin: { sha256: "c7d92f42deff68d8b68adc73b276ae65bb86ae7d6a62652802a80d41de662f99", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "81c3c81bc1588935404cd0357f84744b2345f6aa594cbaba2e808d7b26867177" }
     - id: europe-1-6-b-engine-article
       at: { section: "European 1.6 L (B engine article)" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "B6ZE(RS)" }
-      pin: { sha256: "9738e906d17cc319b690a4d28e8765b2c88eca38f0fc259bb161e9ca9a1ddee9", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "06dba7f410f56f5fc64b8357aff2cfaf83839b20bdffe583f44d444707088116" }
+      pin: { sha256: "9738e906d17cc319b690a4d28e8765b2c88eca38f0fc259bb161e9ca9a1ddee9", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "06dba7f410f56f5fc64b8357aff2cfaf83839b20bdffe583f44d444707088116" }
     - id: curb-weight
       at: { section: "Curb weight" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "d9df45f84f95ca110fdb151daabd16de590a1d6b4f9c729d8d2e3b79631ccf1c" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "d9df45f84f95ca110fdb151daabd16de590a1d6b4f9c729d8d2e3b79631ccf1c" }
     - id: trims
       at: { section: "Trims" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "965ffd159ece09bd18bd17a7d2f98be332bae233909cdf2dfb6154faaa5a2dfe" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "965ffd159ece09bd18bd17a7d2f98be332bae233909cdf2dfb6154faaa5a2dfe" }
 ---
 
 # MX-5 NA2 (1.8 L), model years 1994–1997

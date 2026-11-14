@@ -25,19 +25,19 @@ x-silica:
       source: wp-na
       mode: pinned
       extract: { kind: text-between, start: "The Mazda MX-5 (NA) (sold in Japan", end: "## Special editions" }
-      pin: { sha256: "1a06a8ffbefab1c3564769a527c4a6f015df2244ac936a3b7ab6d8664ec0310c", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "a104a833c5a02360c4c20bfa22455373872377e3e09f5ad401100ed853e656e6" }
+      pin: { sha256: "1a06a8ffbefab1c3564769a527c4a6f015df2244ac936a3b7ab6d8664ec0310c", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "a104a833c5a02360c4c20bfa22455373872377e3e09f5ad401100ed853e656e6" }
     - id: production
       at: { section: "Production" }
       source: wp-na
       mode: pinned
       extract: { kind: text-between, start: "Production | ", end: "\n" }
-      pin: { sha256: "2f037f6502ab3531b21da55e9d88199355339de4007593e1f4dd56289eef0e4c", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "ecfa6c8a3666cc891f3c6c5d9637cc76df2a3db04547145ea0610b09ba7d153f" }
+      pin: { sha256: "2f037f6502ab3531b21da55e9d88199355339de4007593e1f4dd56289eef0e4c", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "ecfa6c8a3666cc891f3c6c5d9637cc76df2a3db04547145ea0610b09ba7d153f" }
     - id: sales-and-production-figures
       at: { section: "Sales and production figures" }
       source: wp-mx5
       mode: pinned
       extract: { kind: text-between, start: "The first generation MX-5 sold", end: "\n1990 | " }
-      pin: { sha256: "3108b382ea4b93f4a025e83b770ec121617207eb249759bdf69948bfcee29112", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "eb7b4f1c84ae0478806708f5b98477fefdfd1b84dd24355aefcbf5efc48bd3b2" }
+      pin: { sha256: "3108b382ea4b93f4a025e83b770ec121617207eb249759bdf69948bfcee29112", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "eb7b4f1c84ae0478806708f5b98477fefdfd1b84dd24355aefcbf5efc48bd3b2" }
     - id: wheelbase
       at: { section: "Wheelbase" }
       source: wp-na
@@ -63,49 +63,49 @@ x-silica:
       source: wp-na
       mode: pinned
       extract: { kind: text-between, start: "Wheelbase | ", end: "## Special editions" }
-      pin: { sha256: "b2f28ed4d5ef90284c78fc0eb316b88a23014f5d2114aae31474e0c1d51ff709", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "35afbd362ab0219ad3c0ca20fdb3cce2d7e8099e6c2e00604768cc06e55f1a4e" }
+      pin: { sha256: "b2f28ed4d5ef90284c78fc0eb316b88a23014f5d2114aae31474e0c1d51ff709", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "35afbd362ab0219ad3c0ca20fdb3cce2d7e8099e6c2e00604768cc06e55f1a4e" }
     - id: curb-weight
       at: { section: "Curb weight" }
       source: wp-na
       mode: pinned
       extract: { kind: text-between, start: "Wheelbase | ", end: "## Special editions" }
-      pin: { sha256: "b2f28ed4d5ef90284c78fc0eb316b88a23014f5d2114aae31474e0c1d51ff709", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "cf8a2f171407819bcb4810737946ff4adccaf13d0bf8c35537a6fd417a4ad390" }
+      pin: { sha256: "b2f28ed4d5ef90284c78fc0eb316b88a23014f5d2114aae31474e0c1d51ff709", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "cf8a2f171407819bcb4810737946ff4adccaf13d0bf8c35537a6fd417a4ad390" }
     - id: engines
       at: { section: "Engines" }
       source: wp-na
       mode: pinned
       extract: { kind: text-between, start: "Engine |", end: "Transmission |" }
-      pin: { sha256: "b4b8862eb9806e5cb709f14d6711444984910db36cb02e19607d125f5b8092e7", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "80c5100ba29a21445436368c59c36239f632886a75df4e5903eaf66070651a4c" }
+      pin: { sha256: "b4b8862eb9806e5cb709f14d6711444984910db36cb02e19607d125f5b8092e7", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "80c5100ba29a21445436368c59c36239f632886a75df4e5903eaf66070651a4c" }
     - id: transmissions
       at: { section: "Transmissions" }
       source: wp-na
       mode: pinned
       extract: { kind: text-between, start: "Transmission |", end: "Dimensions" }
-      pin: { sha256: "65198baae8115a2a5c5d2be7888be56012834cd35e5f66b40a01f31603a0764d", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "142c25090854e47f07752bf2f83d8304ec74c841319c7b139789cd44c70303f1" }
+      pin: { sha256: "65198baae8115a2a5c5d2be7888be56012834cd35e5f66b40a01f31603a0764d", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "142c25090854e47f07752bf2f83d8304ec74c841319c7b139789cd44c70303f1" }
     - id: body-and-chassis
       at: { section: "Body and chassis" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "db73e3c4f095705d66e34d7257c661346adb241330af787da0ea2ec846510896" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "db73e3c4f095705d66e34d7257c661346adb241330af787da0ea2ec846510896" }
     - id: special-editions
       at: { section: "Special editions" }
       source: wp-na
       mode: pinned
       extract: { kind: text-between, start: "## Special editions", end: "## Factory restoration program" }
-      pin: { sha256: "fe4a8a98ad08e400a437b7115b85d38ad725f6e440b04fdf6f7324aef18d77cc", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "b2b8782a300446fb295062d0ca8b68222242ffbfe2927fe1fbb65f014b37f2de" }
+      pin: { sha256: "fe4a8a98ad08e400a437b7115b85d38ad725f6e440b04fdf6f7324aef18d77cc", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "b2b8782a300446fb295062d0ca8b68222242ffbfe2927fe1fbb65f014b37f2de" }
     - id: factory-restoration
       at: { section: "Factory restoration" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Factory restoration program" }
-      pin: { sha256: "cf41219c758b6f7423091e9459c27e223ced4d89fe7648daaf20bbfa6ad7e3ef", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "fc7d0ee02053e1a8de69047b8a0897890675b15606f924f035d07de2bd2af39d" }
+      pin: { sha256: "cf41219c758b6f7423091e9459c27e223ced4d89fe7648daaf20bbfa6ad7e3ef", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "fc7d0ee02053e1a8de69047b8a0897890675b15606f924f035d07de2bd2af39d" }
     - id: awards
       at: { section: "Awards" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Awards and recognition" }
-      pin: { sha256: "45721dadf2199c7aad9f2691d92935ea3d87ac72c7a0a20d10b8d06e1b76d0ac", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "646b0dd7edfb38fcc9f170e72d417fbaa2e8b0473c48d4bd57615d31619fabbe" }
+      pin: { sha256: "45721dadf2199c7aad9f2691d92935ea3d87ac72c7a0a20d10b8d06e1b76d0ac", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "646b0dd7edfb38fcc9f170e72d417fbaa2e8b0473c48d4bd57615d31619fabbe" }
     - id: colors
       at: { section: "Colors by model year" }
     - id: model-code
@@ -131,7 +131,7 @@ The MX-5 article's Overview says the first generation sold 228,961 units between
 
 ## Dimensions
 
-Infobox values, extracted verbatim from the cited revision.
+Infobox values from the cited revision. Single values are derived (copied verbatim); a row with a citation marker or several values is pinned instead.
 
 ### Wheelbase
 

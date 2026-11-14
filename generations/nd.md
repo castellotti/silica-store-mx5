@@ -22,7 +22,7 @@ x-silica:
       source: wp-nd
       mode: pinned
       extract: { kind: text-between, start: "Model code | ND", end: "## Overview" }
-      pin: { sha256: "a44c6b9e398b671c4fda72126a5de7f86ed2aeb93c118adf8d006c2a8dc6acf7", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "b0999e064009378aed63bb0ec440247ed985a65c521ee38d7e029bacec301474" }
+      pin: { sha256: "a44c6b9e398b671c4fda72126a5de7f86ed2aeb93c118adf8d006c2a8dc6acf7", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "b0999e064009378aed63bb0ec440247ed985a65c521ee38d7e029bacec301474" }
     - id: production
       at: { section: "Production" }
       source: wp-nd
@@ -38,7 +38,7 @@ x-silica:
       source: wp-nd
       mode: pinned
       extract: { kind: text-between, start: "Wheelbase |", end: "Length |" }
-      pin: { sha256: "5222a588fb7ead579b4cca25f3cfc05ffc8956a699d372b52147c9ccab218d2a", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "3de8cba2dd1f31c345151ceb9f4147d3ea4ca996760a4cd4c55ec7469feca4f4" }
+      pin: { sha256: "5222a588fb7ead579b4cca25f3cfc05ffc8956a699d372b52147c9ccab218d2a", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "3de8cba2dd1f31c345151ceb9f4147d3ea4ca996760a4cd4c55ec7469feca4f4" }
     - id: length
       at: { section: "Length" }
       source: wp-nd
@@ -59,49 +59,49 @@ x-silica:
       source: wp-nd
       mode: pinned
       extract: { kind: text-between, start: "Curb weight |", end: "Chronology" }
-      pin: { sha256: "d976e3079bc901f5f72edd08ee863987a525791edcdeaada8987a0fbddb148de", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "cf84c8305d9f498b6f06cf3dd3a39fe97224a50f27863a8085986524ee8b2ec1" }
+      pin: { sha256: "d976e3079bc901f5f72edd08ee863987a525791edcdeaada8987a0fbddb148de", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "cf84c8305d9f498b6f06cf3dd3a39fe97224a50f27863a8085986524ee8b2ec1" }
     - id: engines
       at: { section: "Engines" }
       source: wp-nd
       mode: pinned
       extract: { kind: text-between, start: "Engine |", end: "Transmission |" }
-      pin: { sha256: "b109bcab8092b5d925644a91f76d98febfc553fd27d2761e5b50e96a57780a92", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "28d95b5d48646de5ce3b7aec33cb0950823829e7b828182a4d118605d8dc3f24" }
+      pin: { sha256: "b109bcab8092b5d925644a91f76d98febfc553fd27d2761e5b50e96a57780a92", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "28d95b5d48646de5ce3b7aec33cb0950823829e7b828182a4d118605d8dc3f24" }
     - id: transmissions
       at: { section: "Transmissions" }
       source: wp-nd
       mode: pinned
       extract: { kind: text-between, start: "Transmission |", end: "Dimensions" }
-      pin: { sha256: "13d19c5d0dd49d7030bb0e5201ef06036f7582c0c10e486c7a72e52b07fe1853", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "eb880086bd1fa5ea189ea163fb67ff2ab9fcc55ca3e978ad7cc57ee53eedb4a0" }
+      pin: { sha256: "13d19c5d0dd49d7030bb0e5201ef06036f7582c0c10e486c7a72e52b07fe1853", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "eb880086bd1fa5ea189ea163fb67ff2ab9fcc55ca3e978ad7cc57ee53eedb4a0" }
     - id: mx-5-rf
       at: { section: "MX-5 RF" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "MX-5 RF" }
-      pin: { sha256: "621b0269e460ed91ac5a644b8a83b90d30567c1ae3be74b8c0b335948c5ac58e", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "30b439285024dc6524fcef31b83aea630ecb79a7b4ce9e443d320dbc682ac14d" }
+      pin: { sha256: "621b0269e460ed91ac5a644b8a83b90d30567c1ae3be74b8c0b335948c5ac58e", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "30b439285024dc6524fcef31b83aea630ecb79a7b4ce9e443d320dbc682ac14d" }
     - id: european-2-0-l-withdrawal
       at: { section: "European 2.0 L withdrawal" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "bebf0ec4eb35c8406a403ebcbeed2b186c937329dcda930bae06ad1c15b16b7f", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "def6dffa89f30cb99b25e15caebb75e23a7b7f4d274b54280aab03b28697a341" }
+      pin: { sha256: "bebf0ec4eb35c8406a403ebcbeed2b186c937329dcda930bae06ad1c15b16b7f", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "def6dffa89f30cb99b25e15caebb75e23a7b7f4d274b54280aab03b28697a341" }
     - id: safety
       at: { section: "Safety" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Safety" }
-      pin: { sha256: "837fb1e3a21a425b6833c366cbae8cc588a5e86266cb211d53b9615d262124d7", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "5ffd7ce62ed65f92010b9a321c48ec8261bb348ed933199aed2b52e9600b8bea" }
+      pin: { sha256: "837fb1e3a21a425b6833c366cbae8cc588a5e86266cb211d53b9615d262124d7", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "5ffd7ce62ed65f92010b9a321c48ec8261bb348ed933199aed2b52e9600b8bea" }
     - id: special-editions
       at: { section: "Special editions" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Special editions" }
-      pin: { sha256: "44be9f08a4d4d0f186f5b5f08334c5f5d96e6800c9fda98f4d15e950ac4de67e", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "4613b4b419abe6cc4b2562b147ec94e07dc6a4a3e28e21c1ddb9efea11c523b0" }
+      pin: { sha256: "44be9f08a4d4d0f186f5b5f08334c5f5d96e6800c9fda98f4d15e950ac4de67e", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "4613b4b419abe6cc4b2562b147ec94e07dc6a4a3e28e21c1ddb9efea11c523b0" }
     - id: awards
       at: { section: "Awards" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Accolades" }
-      pin: { sha256: "44a397f428d5a04b4687fb155c8090d661e65a3fdabc94a9883b96f8d75b99bf", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "cd435077ecdb06267133a7ea57bc20965399c4f54c82c29af946f962dadc7b47" }
+      pin: { sha256: "44a397f428d5a04b4687fb155c8090d661e65a3fdabc94a9883b96f8d75b99bf", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "cd435077ecdb06267133a7ea57bc20965399c4f54c82c29af946f962dadc7b47" }
     - id: colors
       at: { section: "Colors by model year" }
     - id: model-code
@@ -127,7 +127,7 @@ March 2015 – present [^wp-nd]
 
 ## Dimensions
 
-Infobox values, extracted verbatim from the cited revision.
+Infobox values from the cited revision. Single values are derived (copied verbatim); a row with a citation marker or several values is pinned instead.
 
 ### Wheelbase
 

@@ -24,19 +24,19 @@ x-silica:
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "B6ZE(RS)" }
-      pin: { sha256: "9738e906d17cc319b690a4d28e8765b2c88eca38f0fc259bb161e9ca9a1ddee9", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "2d75a29afa0d19af7d199e49950e55399ea7b11f281f187a011ece2688907314" }
+      pin: { sha256: "9738e906d17cc319b690a4d28e8765b2c88eca38f0fc259bb161e9ca9a1ddee9", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "2d75a29afa0d19af7d199e49950e55399ea7b11f281f187a011ece2688907314" }
     - id: outputs-by-market
       at: { section: "Outputs by market" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "B6ZE(RS)" }
-      pin: { sha256: "9738e906d17cc319b690a4d28e8765b2c88eca38f0fc259bb161e9ca9a1ddee9", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "d2712e96ac5b82e1c94d6c3e2cec2b7ca082c6cbf41896a2886c0e675de2a5aa" }
+      pin: { sha256: "9738e906d17cc319b690a4d28e8765b2c88eca38f0fc259bb161e9ca9a1ddee9", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "d2712e96ac5b82e1c94d6c3e2cec2b7ca082c6cbf41896a2886c0e675de2a5aa" }
     - id: in-the-mx-5-na-article
       at: { section: "In the MX-5 (NA article)" }
       source: wp-na
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:334b67430ffe976b0d9ef21ff9aef5af2f81844f836b567463da81d5b162351c", at: "2026-11-14T11:31:46Z", fact: "4e132d3230720ebb28d3edb2c3bc0ca8a05af77cdd390e4c67a52fe97243c135" }
+      pin: { sha256: "a0d213fd056719a2f8672977f7b1a4af05febb200f8ba079a11992b9339ebd46", rev: "sha256:bda638195825802a57d650a56f5093c6bfd926047ae11a7e963501beeccc6c3c", at: "2026-11-14T11:49:25Z", fact: "4e132d3230720ebb28d3edb2c3bc0ca8a05af77cdd390e4c67a52fe97243c135" }
 ---
 
 # Mazda B6ZE(RS) 1.6 L

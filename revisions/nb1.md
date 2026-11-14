@@ -27,49 +27,49 @@ x-silica:
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "c30a87641d267f5a33f95f86622cdb84b5f36aae2391fa529262b9781a0888cc" }
+      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "c30a87641d267f5a33f95f86622cdb84b5f36aae2391fa529262b9781a0888cc" }
     - id: model-years-mx5-article
       at: { section: "Model years (MX-5 article)" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Second generation – NB (1998–2005)" }
-      pin: { sha256: "ff6045ce35aff9c70e49cd2417d62cbbeae49b0579140ffdb2c0e6b80b0d14c1", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "3d8a4d4a8dab068798c0ec32513672be83d0cb6b9bc913c849300505338b5a0b" }
+      pin: { sha256: "ff6045ce35aff9c70e49cd2417d62cbbeae49b0579140ffdb2c0e6b80b0d14c1", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "3d8a4d4a8dab068798c0ec32513672be83d0cb6b9bc913c849300505338b5a0b" }
     - id: engine
       at: { section: "Engine" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "a01098808236ceea8ff34af5337926869a90acc105dd923398541aed7f0adf8b" }
+      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "a01098808236ceea8ff34af5337926869a90acc105dd923398541aed7f0adf8b" }
     - id: output-uk-table
       at: { section: "Output (UK table)" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Technical specifications (UK)" }
-      pin: { sha256: "898a530d4f89ee6043a9923e358c48bb215ae881aa0e9eb87c3c3410e62ebdb3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "3761084abc6916c338fb13800f329266d309ab8d9a7a509d8bff2435c889c119" }
+      pin: { sha256: "898a530d4f89ee6043a9923e358c48bb215ae881aa0e9eb87c3c3410e62ebdb3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "3761084abc6916c338fb13800f329266d309ab8d9a7a509d8bff2435c889c119" }
     - id: output-b-engine-article
       at: { section: "Output (B engine article)" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "BP-4W" }
-      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "81e5b5629a8620622d473d6f10c9ea3637251a28aa4164ddc4562dd2d9e0f26b" }
+      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "81e5b5629a8620622d473d6f10c9ea3637251a28aa4164ddc4562dd2d9e0f26b" }
     - id: performance
       at: { section: "Performance" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "0f4e3b499818a57c28a55414cc48d11e80702e970d43c7e3d747fb4531690e69" }
+      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "0f4e3b499818a57c28a55414cc48d11e80702e970d43c7e3d747fb4531690e69" }
     - id: features
       at: { section: "Features" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "da88ac149716edf34a004d9111764e382a43e1bfa9a994774518d7e90e173f1b" }
+      pin: { sha256: "795a29c00a11d32b79dbf7953ee899a6feb07244b63af8e72e0527099b2084c3", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "da88ac149716edf34a004d9111764e382a43e1bfa9a994774518d7e90e173f1b" }
     - id: 10th-anniversary-model
       at: { section: "10th Anniversary Model" }
       source: wp-nb
       mode: pinned
       extract: { kind: md-section, heading: "MX-5 10th Anniversary Model (1999)" }
-      pin: { sha256: "8476f321ef66f02df85790dbdf122525b2609780df1c23871532d4f0ee22866f", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:31:46Z", fact: "ea1e6c9fe9404da43f0149d24a3f99826d2dc422be7baa3c5ac7d00963d5f38b" }
+      pin: { sha256: "8476f321ef66f02df85790dbdf122525b2609780df1c23871532d4f0ee22866f", rev: "sha256:778980889258777eea626b61a1a715253cc4b66c9bc18fee54d1b2a7148fcbe8", at: "2026-11-14T11:49:25Z", fact: "ea1e6c9fe9404da43f0149d24a3f99826d2dc422be7baa3c5ac7d00963d5f38b" }
 ---
 
 # MX-5 NB1 (pre-facelift), 1998–2000

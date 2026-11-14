@@ -19,31 +19,31 @@ x-silica:
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2012 update (NC3)" }
-      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "b86ec0c7edcb871a3af8e346d3111542bb2640f4b7a35c4cd7c54f8ad0758964" }
+      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "b86ec0c7edcb871a3af8e346d3111542bb2640f4b7a35c4cd7c54f8ad0758964" }
     - id: changes
       at: { section: "Changes" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2012 update (NC3)" }
-      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "e9524085badca52a7f66e69db01cbf4b51e8efcf8caf852f4321925bca7a5b4d" }
+      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "e9524085badca52a7f66e69db01cbf4b51e8efcf8caf852f4321925bca7a5b4d" }
     - id: engine
       at: { section: "Engine" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2012 update (NC3)" }
-      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "92c1e5c338807e305dd533d6752263506d8c2b60f164db6a6ffab57818489686" }
+      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "92c1e5c338807e305dd533d6752263506d8c2b60f164db6a6ffab57818489686" }
     - id: trims
       at: { section: "Trims" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2012 update (NC3)" }
-      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "569bb846895e97299b3fe0d763cbe4a110402b191e24a63d9dd4988a2c0934bf" }
+      pin: { sha256: "a763e89a0db458f9a90dac9cf00bf42b4cad3cd455e4bb22f91a0fea507e9fdb", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "569bb846895e97299b3fe0d763cbe4a110402b191e24a63d9dd4988a2c0934bf" }
     - id: 25th-anniversary-model
       at: { section: "25th Anniversary Model" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Special editions (2013—2014)" }
-      pin: { sha256: "5e8cf1bd717c43c275316297ae6751100e42ad05165e5c7afd538511c3981b12", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "186ef91d096db97ce4b6c6c37ba7a28978941ddb791dee7ccf49532c7d83a793" }
+      pin: { sha256: "5e8cf1bd717c43c275316297ae6751100e42ad05165e5c7afd538511c3981b12", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "186ef91d096db97ce4b6c6c37ba7a28978941ddb791dee7ccf49532c7d83a793" }
 ---
 
 # MX-5 NC3 (2012 update), model years 2013–2015

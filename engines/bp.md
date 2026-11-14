@@ -20,25 +20,25 @@ x-silica:
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "BP" }
-      pin: { sha256: "d79c2d2f175c1c73ab6caff8fa36c671cb577ab7692c0af693c428381c38adc8", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "b40e4001af205eb1340282e3e87fab591cfd26afdc317f8e09162ae2ecaaad59" }
+      pin: { sha256: "d79c2d2f175c1c73ab6caff8fa36c671cb577ab7692c0af693c428381c38adc8", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "b40e4001af205eb1340282e3e87fab591cfd26afdc317f8e09162ae2ecaaad59" }
     - id: bp-4w
       at: { section: "BP-4W" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "BP-4W" }
-      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "ff14b7e682ed89d15066c401f73a235087d91a1e087ccc3e67cfa2032cef4e7c" }
+      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "ff14b7e682ed89d15066c401f73a235087d91a1e087ccc3e67cfa2032cef4e7c" }
     - id: bp-z3
       at: { section: "BP-Z3" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "BP-Z3" }
-      pin: { sha256: "0d1d0dbf9f416def6890f08891a2a867a6b28ba9467918efc0f9c3bb917d41d6", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "e2849d3fd404f05082361640d925eb2c7f6c9f998eb4affc09ed6173cb111a50" }
+      pin: { sha256: "0d1d0dbf9f416def6890f08891a2a867a6b28ba9467918efc0f9c3bb917d41d6", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "e2849d3fd404f05082361640d925eb2c7f6c9f998eb4affc09ed6173cb111a50" }
     - id: mazdaspeed-turbo
       at: { section: "Mazdaspeed turbo" }
       source: wp-b-engine
       mode: pinned
       extract: { kind: md-section, heading: "BP-4W" }
-      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:31:46Z", fact: "e0eefa7dc2396a7d47aa3550843d0c29ccd52722d1670a2182ce17b68ba6376f" }
+      pin: { sha256: "c84f70950c376990e62f8e889e0617d15a48ba57db98b3200cfb2a32d6992381", rev: "sha256:839bdf0457d7d63505f0e4dac172dcde8ebe76503362a3426c0fa24b6ade1c0f", at: "2026-11-14T11:49:25Z", fact: "e0eefa7dc2396a7d47aa3550843d0c29ccd52722d1670a2182ce17b68ba6376f" }
 ---
 
 # Mazda BP 1.8 L (BP-ZE, BP-4W, BP-Z3)

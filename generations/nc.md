@@ -21,7 +21,7 @@ x-silica:
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "The Mazda MX-5 (NC) is the third", end: "## 2005—2008 (NC1)" }
-      pin: { sha256: "5f5125af2ed9e3a40fb205c45b047f74e5c7c8286c4c517ee525cf65bd6fe6ae", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "8c2d2ddaf15ec85a9cf1e5ebbc3e0fc95e6ced2659285abafa422f0f4fba73ea" }
+      pin: { sha256: "5f5125af2ed9e3a40fb205c45b047f74e5c7c8286c4c517ee525cf65bd6fe6ae", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "8c2d2ddaf15ec85a9cf1e5ebbc3e0fc95e6ced2659285abafa422f0f4fba73ea" }
     - id: production
       at: { section: "Production" }
       source: wp-nc
@@ -42,7 +42,7 @@ x-silica:
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Length |", end: "Width |" }
-      pin: { sha256: "3373fdf020d35f81360192d2fc35ee0adea59b9aee8a779426f46c876bae0680", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "a5f757e783e36c03008fe769a68e47171d11fdeebd8b734592d35adeb77493c3" }
+      pin: { sha256: "3373fdf020d35f81360192d2fc35ee0adea59b9aee8a779426f46c876bae0680", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "a5f757e783e36c03008fe769a68e47171d11fdeebd8b734592d35adeb77493c3" }
     - id: width
       at: { section: "Width" }
       source: wp-nc
@@ -53,49 +53,49 @@ x-silica:
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Height |", end: "Curb weight |" }
-      pin: { sha256: "d4583f0cba55b3c9feb7f7076eb3d4f8420f6d2c528350a75f04244e621ba6ad", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "e6f55d6cef3a34995f102b2098e3fbac97949a27ad7c14b4dc8d4a772199fb41" }
+      pin: { sha256: "d4583f0cba55b3c9feb7f7076eb3d4f8420f6d2c528350a75f04244e621ba6ad", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "e6f55d6cef3a34995f102b2098e3fbac97949a27ad7c14b4dc8d4a772199fb41" }
     - id: curb-weight
       at: { section: "Curb weight" }
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Curb weight |", end: "Chronology" }
-      pin: { sha256: "4bca1626587573431c2e6e1dfa16c9a0e52e99d74ca441dced64922578515552", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "7ab21ce6b8b381a6b340bfb812a2a7c234b5d796ea6abf5f3b66be47c1c49679" }
+      pin: { sha256: "4bca1626587573431c2e6e1dfa16c9a0e52e99d74ca441dced64922578515552", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "7ab21ce6b8b381a6b340bfb812a2a7c234b5d796ea6abf5f3b66be47c1c49679" }
     - id: hardtop-weight-disagreement
       at: { section: "Hardtop weight disagreement" }
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Curb weight |", end: "### Special editions (2005—2008)" }
-      pin: { sha256: "78daa9be2afc71107c1eb6eee47ebf9a289572e569c3211789036478a8490345", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "04260a5a774143c6681cca6d8b592e9f0383eeefff0cba8cdc8f63d3a7a6e9c8" }
+      pin: { sha256: "78daa9be2afc71107c1eb6eee47ebf9a289572e569c3211789036478a8490345", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "04260a5a774143c6681cca6d8b592e9f0383eeefff0cba8cdc8f63d3a7a6e9c8" }
     - id: engines
       at: { section: "Engines" }
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Engine |", end: "Transmission |" }
-      pin: { sha256: "4dd28186200007f5725e89c382721254e11a3291e6b0c716f808f70a166e4983", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "5bf91b4c54a0458ef4ab199b168d71ea2759ff8210b61f4312bd038bae7394b0" }
+      pin: { sha256: "4dd28186200007f5725e89c382721254e11a3291e6b0c716f808f70a166e4983", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "5bf91b4c54a0458ef4ab199b168d71ea2759ff8210b61f4312bd038bae7394b0" }
     - id: european-1-8-l-engine-code
       at: { section: "European 1.8 L engine code" }
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Engine |", end: "## Transmissions" }
-      pin: { sha256: "d8367e3ec0fd2031fc8154f5493b3f5ec5a64103af7cd448da6adbc0aecc4780", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "c587e40fcb8162dd56e8ab6aa64dd6cfabc7ac41f44a998b707aa397ee5c7dcc" }
+      pin: { sha256: "d8367e3ec0fd2031fc8154f5493b3f5ec5a64103af7cd448da6adbc0aecc4780", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "c587e40fcb8162dd56e8ab6aa64dd6cfabc7ac41f44a998b707aa397ee5c7dcc" }
     - id: transmissions
       at: { section: "Transmissions" }
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Transmission |", end: "Dimensions" }
-      pin: { sha256: "c8f70e395b850c45f7e2967a2b95a4222132b7e2a9b05abdbf5876c7ada016f6", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "e3591275214a0e9243b930ad1db0c9b6bb62eeeb3ae002b7ad4bda7a80febc7a" }
+      pin: { sha256: "c8f70e395b850c45f7e2967a2b95a4222132b7e2a9b05abdbf5876c7ada016f6", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "e3591275214a0e9243b930ad1db0c9b6bb62eeeb3ae002b7ad4bda7a80febc7a" }
     - id: power-retractable-hard-top
       at: { section: "Power Retractable Hard Top" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Power Retractable Hard Top" }
-      pin: { sha256: "c7994c4bc04331bb18b4079d5a70451a253a24c09b44f3c9b0cdd77665a40102", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "abb4cb3f00a27124310614b92a429e80facc0a41b1c38ff194e8f985f37f06e4" }
+      pin: { sha256: "c7994c4bc04331bb18b4079d5a70451a253a24c09b44f3c9b0cdd77665a40102", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "abb4cb3f00a27124310614b92a429e80facc0a41b1c38ff194e8f985f37f06e4" }
     - id: awards
       at: { section: "Awards" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Accolades" }
-      pin: { sha256: "10e04bec335c16487e2205c6bea01c26f80427d64d2f3559cef831c6c1ffef44", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "117b1c6780c096a842e9010ba12a708a29a53437420e0b669b2a90e69e9f6887" }
+      pin: { sha256: "10e04bec335c16487e2205c6bea01c26f80427d64d2f3559cef831c6c1ffef44", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "117b1c6780c096a842e9010ba12a708a29a53437420e0b669b2a90e69e9f6887" }
     - id: colors
       at: { section: "Colors by model year" }
     - id: model-code
@@ -121,7 +121,7 @@ The third generation, manufactured from 2005 to 2015; the first MX-5 with a retr
 
 ## Dimensions
 
-Infobox values, extracted verbatim from the cited revision.
+Infobox values from the cited revision. Single values are derived (copied verbatim); a row with a citation marker or several values is pinned instead.
 
 ### Wheelbase
 

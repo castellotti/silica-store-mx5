@@ -20,49 +20,49 @@ x-silica:
       source: wp-mx5
       mode: pinned
       extract: { kind: text-between, start: "Also called |", end: "Production |" }
-      pin: { sha256: "3f3c2891260c0687e52cb71c671cf375cbc24a027b7ae401ca11b038c25cf0bf", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "6d7fc9c3e28b7984942bff373adebcdef6fa7d3fda3328ba886c6abfb0a83c21" }
+      pin: { sha256: "3f3c2891260c0687e52cb71c671cf375cbc24a027b7ae401ca11b038c25cf0bf", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "6d7fc9c3e28b7984942bff373adebcdef6fa7d3fda3328ba886c6abfb0a83c21" }
     - id: generations
       at: { section: "Generations" }
       source: wp-mx5
       mode: pinned
       extract: { kind: text-between, start: "Each generation is identified", end: "More than one million" }
-      pin: { sha256: "b74914956ccb13c18ee9e307beddc7ed1dd5284c6c07e57e6608843de28119a6", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "43a3881f59a803492eb606ef9d94eaafc0f1fc61f3b68097b85656f9a18894fe" }
+      pin: { sha256: "b74914956ccb13c18ee9e307beddc7ed1dd5284c6c07e57e6608843de28119a6", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "43a3881f59a803492eb606ef9d94eaafc0f1fc61f3b68097b85656f9a18894fe" }
     - id: overview
       at: { section: "Overview" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Overview" }
-      pin: { sha256: "7cdbbbe3f000ab0b77efc3c97576c65599eaf0a2d971dcf226d7d2c168e2c98d", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "3eb0a3f03e9abe59fb6b351695371ffcc9351564bd93340e547f33103e5f8066" }
+      pin: { sha256: "7cdbbbe3f000ab0b77efc3c97576c65599eaf0a2d971dcf226d7d2c168e2c98d", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "3eb0a3f03e9abe59fb6b351695371ffcc9351564bd93340e547f33103e5f8066" }
     - id: production-milestones
       at: { section: "Production milestones" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Production numbers and details" }
-      pin: { sha256: "c45ef12562f84fed1bd98d447976e017c0390d91921803d8f802d306831cb54c", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "26739d12a16f608ca2edefaf835762c31340e445b6f2e89a1ad00acf9619467e" }
+      pin: { sha256: "c45ef12562f84fed1bd98d447976e017c0390d91921803d8f802d306831cb54c", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "26739d12a16f608ca2edefaf835762c31340e445b6f2e89a1ad00acf9619467e" }
     - id: production-by-generation
       at: { section: "Production by generation" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Production numbers and details" }
-      pin: { sha256: "c45ef12562f84fed1bd98d447976e017c0390d91921803d8f802d306831cb54c", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "2fc086f5c450ba598e61b4b792479822576a110adbf05792acba38a82f5627aa" }
+      pin: { sha256: "c45ef12562f84fed1bd98d447976e017c0390d91921803d8f802d306831cb54c", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "2fc086f5c450ba598e61b4b792479822576a110adbf05792acba38a82f5627aa" }
     - id: awards
       at: { section: "Awards" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Awards" }
-      pin: { sha256: "d6e447d1304ef62f529e37e5cc846bc531f6ebf3fb2a77533b78c1fe570ca5ee", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "3abf9387516e7e89f249306ea4188379636b7ec922ad857c2f1c23d781f69902" }
+      pin: { sha256: "d6e447d1304ef62f529e37e5cc846bc531f6ebf3fb2a77533b78c1fe570ca5ee", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "3abf9387516e7e89f249306ea4188379636b7ec922ad857c2f1c23d781f69902" }
     - id: recognition
       at: { section: "Recognition" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Legacy and recognition" }
-      pin: { sha256: "c78a7e69bdb00819583e7a7ced4685c66cca6511cdf4b685911dcd5af8e094ed", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "79913ea76fa27b96bc93bfde4eaf769a5597758eb32d91ffba787d94483946b3" }
+      pin: { sha256: "c78a7e69bdb00819583e7a7ced4685c66cca6511cdf4b685911dcd5af8e094ed", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "79913ea76fa27b96bc93bfde4eaf769a5597758eb32d91ffba787d94483946b3" }
     - id: ten-best-count
       at: { section: "Car and Driver 10Best count" }
       source: wp-mx5
       mode: pinned
       extract: { kind: md-section, heading: "Legacy and recognition" }
-      pin: { sha256: "c78a7e69bdb00819583e7a7ced4685c66cca6511cdf4b685911dcd5af8e094ed", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:31:46Z", fact: "232e113b66495dfe3f0a29cd7e12be83e2aec4e9bd3a7c0caea3ff72b5ac4e75" }
+      pin: { sha256: "c78a7e69bdb00819583e7a7ced4685c66cca6511cdf4b685911dcd5af8e094ed", rev: "sha256:b96cb41d926071821490db5697fd311eccc0299e8afdf5870eae5f130f177006", at: "2026-11-14T11:49:25Z", fact: "232e113b66495dfe3f0a29cd7e12be83e2aec4e9bd3a7c0caea3ff72b5ac4e75" }
     - id: total-sales
       at: { section: "Total sales to date" }
 ---

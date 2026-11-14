@@ -24,25 +24,25 @@ x-silica:
       source: wp-fiat-124
       mode: pinned
       extract: { kind: text-between, start: "Related | Mazda MX-5 (ND)", end: "## Background" }
-      pin: { sha256: "9b816930adf4d0015e115eee6e26a00245c2ca568749654363af0bba302151f6", rev: "sha256:788dd2b43fd58bfdfbf6544ac68575a56a437395a23a054c32672da6b2e4d26f", at: "2026-11-14T11:31:46Z", fact: "2be9eb749b275e6d61b8d19b2c95ff71e499fd601a59bd08e88b0fa1cdb42c8f" }
+      pin: { sha256: "9b816930adf4d0015e115eee6e26a00245c2ca568749654363af0bba302151f6", rev: "sha256:788dd2b43fd58bfdfbf6544ac68575a56a437395a23a054c32672da6b2e4d26f", at: "2026-11-14T11:49:25Z", fact: "2be9eb749b275e6d61b8d19b2c95ff71e499fd601a59bd08e88b0fa1cdb42c8f" }
     - id: engine-fiat-article
       at: { section: "Engine (Fiat article)" }
       source: wp-fiat-124
       mode: pinned
       extract: { kind: md-section, heading: "Specifications" }
-      pin: { sha256: "075fec71d7f3ed61ff17354ae3b28a31153b958d961710abe5c3c88d6236ed44", rev: "sha256:788dd2b43fd58bfdfbf6544ac68575a56a437395a23a054c32672da6b2e4d26f", at: "2026-11-14T11:31:46Z", fact: "407cfad09751638de92a3df041ef5ed9f27f77c588f779bd66a0e1dedd78b0ce" }
+      pin: { sha256: "075fec71d7f3ed61ff17354ae3b28a31153b958d961710abe5c3c88d6236ed44", rev: "sha256:788dd2b43fd58bfdfbf6544ac68575a56a437395a23a054c32672da6b2e4d26f", at: "2026-11-14T11:49:25Z", fact: "407cfad09751638de92a3df041ef5ed9f27f77c588f779bd66a0e1dedd78b0ce" }
     - id: engine-nd-article
       at: { section: "Engine (ND article)" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Cooperation with Fiat Chrysler" }
-      pin: { sha256: "e94d90fe28731a447d25b286462acddaffecc0d6ebbff64e153bd3a3be6db57d", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "e52235cb47b3dfb6f4ec73a27e54bc418dd6b854f10a7d4bccc9273db48eb387" }
+      pin: { sha256: "e94d90fe28731a447d25b286462acddaffecc0d6ebbff64e153bd3a3be6db57d", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "e52235cb47b3dfb6f4ec73a27e54bc418dd6b854f10a7d4bccc9273db48eb387" }
     - id: origin
       at: { section: "Origin" }
       source: wp-nd
       mode: pinned
       extract: { kind: md-section, heading: "Cooperation with Fiat Chrysler" }
-      pin: { sha256: "e94d90fe28731a447d25b286462acddaffecc0d6ebbff64e153bd3a3be6db57d", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:31:46Z", fact: "7a43d89eefa3c914ebee7d3ab86e0d88b9ae4ca23337b6705293c9f9e08eae73" }
+      pin: { sha256: "e94d90fe28731a447d25b286462acddaffecc0d6ebbff64e153bd3a3be6db57d", rev: "sha256:e1a829d55fb41d71df271f5207d5dd8fcd9f6094cc6fcf9771fadcb1a335acc7", at: "2026-11-14T11:49:25Z", fact: "7a43d89eefa3c914ebee7d3ab86e0d88b9ae4ca23337b6705293c9f9e08eae73" }
 ---
 
 # Fiat 124 Spider (2016) and Abarth 124 Spider

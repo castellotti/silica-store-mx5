@@ -19,43 +19,43 @@ x-silica:
       source: wp-nc
       mode: pinned
       extract: { kind: text-between, start: "Model years |", end: "## 2009 facelift (NC2)" }
-      pin: { sha256: "53a865d0a20c31ff4f5d7ba50603ef19b5d4f90e53808ceadc6d572c920651ef", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "6fd5bc9f1688f2d652cd5537e9d044591fca8a80998d7296237b0967bc3917c8" }
+      pin: { sha256: "53a865d0a20c31ff4f5d7ba50603ef19b5d4f90e53808ceadc6d572c920651ef", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "6fd5bc9f1688f2d652cd5537e9d044591fca8a80998d7296237b0967bc3917c8" }
     - id: design
       at: { section: "Design" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2005—2008 (NC1)" }
-      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "e58c3bb3cc87bc35d2e0b5df224a0e77d92f413b1da2799e29f2b8edb424fb5b" }
+      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "e58c3bb3cc87bc35d2e0b5df224a0e77d92f413b1da2799e29f2b8edb424fb5b" }
     - id: engine
       at: { section: "Engine" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2005—2008 (NC1)" }
-      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "67f7b07e25ed00cb95d491037bed20331f6db097184dbc85dec1ca2e3a7314e2" }
+      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "67f7b07e25ed00cb95d491037bed20331f6db097184dbc85dec1ca2e3a7314e2" }
     - id: features
       at: { section: "Features" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "2005—2008 (NC1)" }
-      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "6ba359c9c639e3f9f78e480f5fca9802e840c1f9bff82a5429a5495dee1c3065" }
+      pin: { sha256: "eb5583dd773fb52a839635296607b031b5ed491267128ed8423d5f5ceffe5dc8", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "6ba359c9c639e3f9f78e480f5fca9802e840c1f9bff82a5429a5495dee1c3065" }
     - id: power-retractable-hard-top
       at: { section: "Power Retractable Hard Top" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Power Retractable Hard Top" }
-      pin: { sha256: "c7994c4bc04331bb18b4079d5a70451a253a24c09b44f3c9b0cdd77665a40102", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "1ca68dce5a6df81bbabc22699cc5ef9a1643b3074a963ac10ea7856b490744e9" }
+      pin: { sha256: "c7994c4bc04331bb18b4079d5a70451a253a24c09b44f3c9b0cdd77665a40102", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "1ca68dce5a6df81bbabc22699cc5ef9a1643b3074a963ac10ea7856b490744e9" }
     - id: trims
       at: { section: "Trims" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Transmissions" }
-      pin: { sha256: "108f8b4426d163e09fc1f36a1ee431c61f734b8f9a1a4cf604b8a0546b8a2334", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "4f488403648e0032703b862ab2f61267cae3118ca4ddf33584e81f3043f2129d" }
+      pin: { sha256: "108f8b4426d163e09fc1f36a1ee431c61f734b8f9a1a4cf604b8a0546b8a2334", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "4f488403648e0032703b862ab2f61267cae3118ca4ddf33584e81f3043f2129d" }
     - id: special-editions
       at: { section: "Special editions" }
       source: wp-nc
       mode: pinned
       extract: { kind: md-section, heading: "Special editions (2005—2008)" }
-      pin: { sha256: "5e063b137e5e1aa00f8d34c87202d13de4665a1a27fa1521bdd40c4f1903af63", rev: "sha256:f4725821ab6e7446faa0f56c1a7a502d19f7a842e87e55f079b17a1408bd2d31", at: "2026-11-14T11:31:46Z", fact: "6d6b09b064c3d0c7abbc4f4da9baf80ebfe4859e3ad731c9d88d120273bd2fba" }
+      pin: { sha256: "5e063b137e5e1aa00f8d34c87202d13de4665a1a27fa1521bdd40c4f1903af63", rev: "sha256:dee0e9956663fb8260f2f41bb55994564bf060b51af210ed156f5bf0c6589418", at: "2026-11-14T11:49:25Z", fact: "6d6b09b064c3d0c7abbc4f4da9baf80ebfe4859e3ad731c9d88d120273bd2fba" }
 ---
 
 # MX-5 NC1, model years 2006–2008

@@ -9,3 +9,6 @@
 * Silica round 1 (read path, CLI, registry) is merged. Configured: `.silica/config.yaml` with the
   default write policy (`mode: bot`, `gate: manual`). Not yet configured: `generate.yaml` (round 2),
   bot credentials and a PR check (round 3), an MCP deployment (round 4).
+* Known follow-ups: model-year facts repeat revision-level facts (one copy per year), so a
+  source change needs the same edit in several files; pinned `rev` values for Wikipedia pages
+  drift as the rendered HTML changes, so those facts pass by region hash rather than the probe.
