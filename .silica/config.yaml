@@ -1,0 +1,19 @@
+# Silica store settings.
+format: okf
+role: store
+title: "Mazda MX-5 knowledge store"
+sources:
+  allow:
+    - { kind: http, host: en.wikipedia.org }
+    - { kind: git, host: github.com, repo: "castellotti/silica-store-mx5" }
+    - { kind: file, path: canary }
+  maxAge: { file: 0s, git: 5m, http: 15m }
+  allowRegexExtractor: false
+  allowAttestedSubmissions: false
+write:
+  mode: bot
+  attribution: none
+  confirm: never
+  automerge: derived-only
+  gate: manual
+research: { inline: true }
