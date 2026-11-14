@@ -1,0 +1,49 @@
+{
+  "note": "Real values from the Wikipedia revisions cited in /generations/*.md. Edit to cause drift.",
+  "generations": [
+    {
+      "code": "NA",
+      "ordinal": 1,
+      "production": "1989–1997",
+      "north_america_model_years": "1990–1997",
+      "wheelbase_mm": 2265,
+      "engines": [
+        "B6ZE(RS)",
+        "BP-ZE"
+      ]
+    },
+    {
+      "code": "NB",
+      "ordinal": 2,
+      "production": "1998–2005",
+      "wheelbase_mm": 2270,
+      "engines": [
+        "B6-ZE",
+        "BP-4W",
+        "BP-Z3"
+      ]
+    },
+    {
+      "code": "NC",
+      "ordinal": 3,
+      "production": "2005–2015",
+      "north_america_model_years": "2006–2015",
+      "wheelbase_mm": 2330,
+      "engines": [
+        "MZR L8-DE",
+        "MZR LF-VE"
+      ]
+    },
+    {
+      "code": "ND",
+      "ordinal": 4,
+      "production": "2015–present",
+      "north_america_model_years": "2016–present",
+      "wheelbase_mm": 2310,
+      "engines": [
+        "Skyactiv-G P5-VPS",
+        "Skyactiv-G PE-VPS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Real values from the Wikipedia revision cited in /model/mx-5.md. Edit to cause drift.
+guinness_record_2000:
+  units: 531890
+milestones:
+  - units: 250000
+    date: "1992-11-09"
+  - units: 500000
+    date: "1999-02-08"
+  - units: 1000000
+    date: "2016-04-22"
