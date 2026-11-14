@@ -1,1 +1,3 @@
 .claude/
+# Local, interim authoring tools for this store (not part of the bundle).
+tools/

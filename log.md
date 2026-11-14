@@ -2,6 +2,11 @@
 
 ## 2026-11-14
 
+* PR #1 merged. All 383 sourced facts verify against `main` (33 re-derived, 350 unchanged),
+  including the 4 git-source canary facts; `silica check-store` reports 0 errors.
+* Registered with `silica store add mx5`, pointing at the local checkout.
+* Interim authoring tools (generator, pin helper) are kept, untracked, in `tools/`, which
+  `.gitignore` excludes; they are expected to be obsolete once Silica ships Rounds 2–3.
 * Created the store: model overview and glossary, 4 generations, 10 revisions, 37 model years
   (1990–2026), 4 engine concepts, 3 award concepts, 2 related concepts and the canary concept.
 * Sources: permanent revisions of 11 English Wikipedia articles and the store's own canary files.
